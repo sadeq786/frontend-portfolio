@@ -25,20 +25,16 @@
     font-weight: 900;
     font-size: 55px;
     padding-left: 0;
-    padding-top: 150px;
+    padding-top: 100px;
     margin-bottom: 30px;
 }
 .navbar {
     padding: 0;
     height: 90px;
-    /* background-image: url("./images/blur\ 1920.jpeg"); */
 }
-
-
 
 body {
     font-family: 'Raleway', sans-serif;
-    /* background-color: bisque; */
 }
 
 .lead {
@@ -65,7 +61,7 @@ a:hover {
     margin: auto;
     padding: 160px 0;
     width: 100%;
-    /* font-size: 3em; */
+    font-size: 3em;
 }
 
 .proj1 {
@@ -73,15 +69,14 @@ a:hover {
     background-size: 100% 100%;
     /* height: 400px; */
     width: 100%;
-    /* opacity: 30%; */
-}
+    opacity: 30%;}
 
 .proj2 {
     background-image: url("./images/boo2.png");
     background-size: 100% 100%;
     /* height: 400px; */
     width: 100%;
-    /* opacity: 30%; */
+    opacity: 30%;
 }
 
 .proj3 {
@@ -89,7 +84,7 @@ a:hover {
     background-size: 100% 100%;
     /* height: 400px; */
     width: 100%;
-    /* opacity: 30%; */
+    opacity: 30%;
 }
 
 .proj4 {
@@ -97,7 +92,7 @@ a:hover {
     background-size: 100% 100%;
     /* height: 400px; */
     width: 100%;
-    /* opacity: 30%; */
+    opacity: 30%;
 }
 
 .row {
@@ -138,33 +133,3 @@ hr {
     margin-top: 0;
 }
 
-.card-footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    height: 80px;
-}
-
-.card-footer p {
-    margin-bottom: 0;
-    opacity:0.1;
-    
-}
-
-.projectName {
-    font-size: 1.5em;
-}
-
-.button-footer{
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    width: 150px;
-    background-color: #26293C;
-    color: white;
-    text-align: center;
-    margin-bottom: 20px;
-    margin-right: 20px;
-    padding-top: 3px;
-    /* border-radius:10%; */
-}
